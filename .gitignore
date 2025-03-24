@@ -13,3 +13,5 @@ subprocesses
 working
 cwd/
 bin/
+/main.exe
+.tiktoken/
